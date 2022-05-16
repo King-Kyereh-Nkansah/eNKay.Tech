@@ -263,6 +263,11 @@ section{
     transition: ease all 0.35s;
     cursor: pointer;
 }
+.cta-btn:hover{
+    background:var(--text-color);
+    color: black;
+    box-shadow: 4px 4px var(--main-color);
+}
 .cta h4{
     color: var(--text-color);
     font-size: 1.6rem;
