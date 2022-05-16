@@ -249,6 +249,20 @@ section{
     text-align: center;
     margin: 100px auto;
 }
+.cta-btn{
+    background:var(--main-color);
+    color: black;
+    box-shadow: 4px 4px var(--text-color);
+    padding: 0 25px;
+    line-height: 42px;
+    display: inline-block;
+    border: 1px solid transparent;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    transition: ease all 0.35s;
+    cursor: pointer;
+}
 .cta h4{
     color: var(--text-color);
     font-size: 1.6rem;
