@@ -287,6 +287,10 @@ section{
     align-items: center;
     margin-top: 4.4rem;
 }
+.youtube-link{
+    color:yellow;
+    font-weight:600;
+}
 .box{
     background:#0b0b13;
     padding: 40px 30px;
